@@ -7,3 +7,5 @@ ini adalah aplikasi cuacaku yang dibuat oleh kelompok kami yang beranggotakan 4 
 4. Diah Mutiara Dewi - 085021022
 
 Aplikasi tersebut menggunakan API OpenWeatherApp yang dimana API tersebut bersifat Terbuka.
+berikut link video demo nya
+https://youtu.be/aNyfntBNFm0
